@@ -34,7 +34,7 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 ```
 The MIT License (MIT)
 
-Copyright (c) 2023 Gabriel Zattar
+Copyright (c) 2021 Roque Boarque Junior
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
